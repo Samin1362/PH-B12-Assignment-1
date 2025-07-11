@@ -15,12 +15,12 @@ A sleek, modern **Landing Page** designed with clean UI and smooth interactions.
 
 ## ✨ Features
 
-- 🧠 **Modern UI** – Clean layout with bold typography and intuitive structure
-- 📷 **Image Showcase** – Product screenshots and feedback sections
-- 📬 **Contact Form** – Input fields for user communication
-- 🌟 **User Testimonials** – Styled card-based user feedback
-- 🚀 **Smooth Hover Effects** – Enhanced user experience with transitions
-- 📌 **Font Awesome Icons** – Eye-catching star and UI elements
+-  **Modern UI** – Clean layout with bold typography and intuitive structure
+-  **Image Showcase** – Product screenshots and feedback sections
+-  **Contact Form** – Input fields for user communication
+-  **User Testimonials** – Styled card-based user feedback
+-  **Smooth Hover Effects** – Enhanced user experience with transitions
+-  **Font Awesome Icons** – Eye-catching star and UI elements
 
 ---
 
