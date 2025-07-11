@@ -2,7 +2,7 @@
 
 ![Landing Page Preview](Assets/preview.png)
 
-A sleek, modern, and fully responsive **Landing Page** designed with clean UI and smooth interactions. Built as part of **PH-B12 Assignment 1**, this project demonstrates fundamental web development skills using **HTML5** and **CSS3**, with responsiveness and elegant design in mind.
+A sleek, modern **Landing Page** designed with clean UI and smooth interactions. Built as part of **PH-B12 Assignment 1**, this project demonstrates fundamental web development skills using **HTML5** and **CSS3**.
 
 ---
 
@@ -15,7 +15,6 @@ A sleek, modern, and fully responsive **Landing Page** designed with clean UI an
 
 ## ✨ Features
 
-- 🎨 **Responsive Design** – Seamlessly adapts to all screen sizes (mobile, tablet, desktop)
 - 🧠 **Modern UI** – Clean layout with bold typography and intuitive structure
 - 📷 **Image Showcase** – Product screenshots and feedback sections
 - 📬 **Contact Form** – Input fields for user communication
