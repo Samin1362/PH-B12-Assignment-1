@@ -279,3 +279,45 @@ section {
 .form button {
   padding: 19px 201px;
 }
+
+footer {
+  background-color: white;
+  width: 1440px;
+  margin: 0px auto;
+}
+
+.footer-container {
+  height: 428px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-container h1 {
+  font-size: 100px;
+  font-family: "Inter", sans-serif;
+  color: #4E47FF;
+}
+
+.footer-container p {
+  text-align: center;
+  color: #8987A1;
+}
+
+.pages {
+  margin-top: 20px;
+  display: flex;
+  gap: 48px;
+}
+
+.pages a {
+  text-decoration: none;
+  color: #8987A1;
+  cursor: pointer;
+}
+
+.pages h3 {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+}
