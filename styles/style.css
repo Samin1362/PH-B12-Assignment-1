@@ -37,14 +37,15 @@ section {
   color: white;
   padding: 12px 36px;
   border-radius: 10px;
+  transition: all 0.4s ease;
 }
 
 .btn-primary:hover {
   background-color: yellow;
   color: black;
-  padding: 14px 38px;
-  font-size: 18px;
+  border: 1px solid blue;
   border-radius: 0px;
+  box-shadow: 10px 10px 5px yellow inset;
 }
 
 /* banner section */
