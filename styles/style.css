@@ -204,7 +204,7 @@ section {
   margin-top: 24px;
 }
 
-.reviewer img{
+.reviewer img {
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -218,4 +218,64 @@ section {
 .reviewer p {
   font-size: 16px;
   color: #B3B3B3;
+}
+
+/* get in touch section */
+.touch-section {
+  width: 1140px;
+  height: 632px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.touch-section-heading {
+  width: 528px;
+  height: 232px;
+}
+
+.touch-section-heading h1 {
+  font-size: 97px;
+  font-weight: 600;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+}
+
+.form label {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.form input {
+  width: 497px;
+  border-radius: 10px;
+  border: 1px solid #D6DDED;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+  padding: 20px 0px 20px 20px;
+  margin-bottom: 19px;
+}
+
+.form input::placeholder {
+  color: rgba(0, 0, 0, 0.5);
+  opacity: 50;
+  font-family: "Inter", sans-serif;
+}
+
+.form textarea {
+  padding: 20px 0px 20px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  border: 1px solid #D6DDED;
+  margin-bottom: 19px;
+}
+
+.form button {
+  padding: 19px 201px;
 }
