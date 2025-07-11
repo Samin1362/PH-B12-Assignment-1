@@ -1,0 +1,81 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+section {
+  margin: 0px auto;
+}
+
+
+/* primary font from google fonts named raleway */
+.raleway-primary {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.inter-secondary {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+
+/* primary button used in the project */
+.btn-primary {
+  background-color: #4E47FF;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  padding: 12px 36px;
+  border-radius: 10px;
+}
+
+.btn-primary:hover {
+  background-color: yellow;
+  color: black;
+  padding: 14px 38px;
+  font-size: 18px;
+  border-radius: 0px;
+}
+
+/* banner section */
+.banner-section {
+  background-image: url("../Assets/Hero-bg.png");
+  width: 1440px;
+  height: 698px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 158px;
+}
+
+.banner-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 0px;
+  margin: 0px 150px;
+}
+
+.banner-nav h4 {
+  color: #4E47FF;
+  font-size: 34px;
+  font-weight: 800;
+}
+
+.banner-content {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: center;
+}
+
+.banner-content h1 {
+  font-size: 65px;
+  text-align: center;
+  font-weight: 600;
+}
